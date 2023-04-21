@@ -1,86 +1,86 @@
-index,Neighborhood,Rank,Median Home Value
-10,Bluff,1,21200.0
-86,West End,2,29800.0
-42,Homewood West,3,34500.0
-44,Larimer,4,34850.0
-40,Homewood North,5,35450.0
-8,Beltzhoover,6,36000.0
-43,Knoxville,7,39900.0
-27,East Hills,8,40700.0
-77,St. Clair,9,41100.0
-2,Allentown,10,42200.0
-46,Lincoln-Lemington-Belmar,11,43767.0
-3,Arlington,12,44200.0
-73,Spring Garden,13,48000.0
-41,Homewood South,14,48400.0
-85,Upper Lawrenceville,15,48700.0
-37,Hays,16,50800.0
-29,Elliott,17,51300.0
-61,Perry South,18,51350.0
-30,Esplen,19,51400.0
-83,Troy Hill,20,52600.0
-53,Mt. Oliver,21,56700.0
-47,Lower Lawrenceville,22,56900.0
-32,Fineview,23,58900.0
-74,Spring Hill-City View,24,58900.0
-82,Terrace Village,25,59300.0
-34,Garfield,26,60300.0
-87,West Oakland,27,61100.0
-68,Sheraden,28,61600.0
-49,Marshall-Shadeland,29,61900.0
-64,Polish Hill,30,62700.0
-26,East Carnegie,31,63500.0
-4,Arlington Heights,32,64400.0
-28,East Liberty,33,64650.0
-38,Hazelwood,34,65550.0
-84,Upper Hill,35,66300.0
-17,Central Lawrenceville,36,66850.0
-15,Carrick,37,66900.0
-11,Bon Air,38,69500.0
-7,Beechview,39,72400.0
-31,Fairywood,40,72800.0
-50,Middle Hill,41,72800.0
-72,South Side Slopes,42,73050.0
-59,Overbrook,43,76200.0
-60,Perry North,44,76300.0
-22,Crafton Heights,45,76650.0
-20,Chartiers City,46,76700.0
-25,East Allegheny,47,77100.0
-69,South Oakland,48,77200.0
-45,Lincoln Place,49,77700.0
-52,Mount Washington,50,78175.0
-89,Windgap,51,78200.0
-6,Bedford Dwellings,52,81100.0
-12,Brighton Heights,53,81433.0
-13,Brookline,54,82150.0
-78,Stanton Heights,55,86700.0
-51,Morningside,56,89700.0
-66,Ridgemont,57,90500.0
-36,Greenfield,58,90900.0
-9,Bloomfield,59,92840.0
-88,Westwood,60,93700.0
-80,Summer Hill,61,94400.0
-23,Crawford-Roberts,62,94600.0
-63,Point Breeze North,63,99500.0
-24,Duquesne Heights,64,100500.0
-48,Manchester,65,101300.0
-58,Oakwood,66,108500.0
-81,Swisshelm Park,67,108600.0
-5,Banksville,68,110900.0
-14,California-Kirkbride,69,113200.0
-54,New Homestead,70,117400.0
-1,Allegheny West,71,123600.0
-18,Central Northside,72,124300.0
-16,Central Business District,73,125800.0
-0,Allegheny Center,74,136300.0
-19,Central Oakland,75,144350.0
-71,South Side Flats,76,153750.0
-79,Strip District,77,161800.0
-33,Friendship,78,167300.0
-39,Highland Park,79,167400.0
-65,Regent Square,80,196300.0
-76,Squirrel Hill South,81,201400.0
-62,Point Breeze,82,240300.0
-67,Shadyside,83,264860.0
-55,North Oakland,84,273000.0
-75,Squirrel Hill North,85,344900.0
+Neighborhood,Housing Rank,Crime Rank,Education Rank
+Bluff,1,67,13
+West End,2,20,87
+Homewood West,3,57,74
+Larimer,4,70,60
+Homewood North,5,93,37
+Beltzhoover,6,49,59
+Knoxville,7,92,26
+East Hills,8,84,40
+St. Clair,9,23,86
+Allentown,10,79,43
+Lincoln-Lemington-Belmar,11,88,20
+Arlington,12,19,54
+Spring Garden,13,25,75
+Homewood South,14,96,49
+Upper Lawrenceville,15,38,41
+Hays,16,13,82
+Elliott,17,54,44
+Perry South,18,75,35
+Esplen,19,18,84
+Troy Hill,20,8,48
+Mt. Oliver,21,4,80
+Lower Lawrenceville,22,53,42
+Fineview,23,44,67
+Spring Hill-City View,24,55,46
+Terrace Village,25,36,47
+Garfield,26,72,29
+West Oakland,27,41,58
+Sheraden,28,86,17
+Marshall-Shadeland,29,85,15
+Polish Hill,30,30,64
+East Carnegie,31,11,79
+Arlington Heights,32,19,88
+East Liberty,33,95,18
+Hazelwood,34,82,24
+Upper Hill,35,46,53
+Central Lawrenceville,36,70,21
+Carrick,37,99,5
+Bon Air,38,31,73
+Beechview,39,80,9
+Fairywood,40,22,69
+Middle Hill,41,74,56
+South Side Slopes,42,76,22
+Overbrook,43,47,31
+Perry North,44,64,30
+Crafton Heights,45,58,27
+Chartiers City,46,9,81
+East Allegheny,47,81,51
+South Oakland,48,50,38
+Lincoln Place,49,40,32
+Mount Washington,50,94,7
+Windgap,51,26,61
+Bedford Dwellings,52,54,66
+Brighton Heights,53,87,11
+Brookline,54,90,3
+Stanton Heights,55,42,23
+Morningside,56,37,36
+Ridgemont,57,7,85
+Greenfield,58,66,10
+Bloomfield,59,98,8
+Westwood,60,39,33
+Summer Hill,61,16,68
+Crawford-Roberts,62,67,50
+Point Breeze North,63,52,57
+Duquesne Heights,64,29,45
+Manchester,65,48,52
+Oakwood,66,15,70
+Swisshelm Park,67,12,65
+Banksville,68,34,28
+California-Kirkbride,69,33,77
+New Homestead,70,10,72
+Allegheny West,71,32,83
+Central Northside,72,27,39
+Central Business District,73,100,25
+Allegheny Center,74,62,63
+Central Oakland,75,83,16
+South Side Flats,76,101,14
+Strip District,77,60,76
+Friendship,78,43,55
+Highland Park,79,73,12
+Regent Square,80,17,71
+Squirrel Hill South,81,91,1
+Point Breeze,82,52,19
+Shadyside,83,97,2
+North Oakland,84,77,6
+Squirrel Hill North,85,68,4
