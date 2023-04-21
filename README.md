@@ -12,7 +12,7 @@ The aim of this project is to determine the best neighborhood for families to li
 
 - This dataset provides information about the number of people enrolled in school for each neighborhood in Pittsburgh: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment/resource/eb1f8714-e0eb-4614-acfe-dfe0ebab942f
 
-- Crime rate
+- Crime rate dataset: https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/044f2016-1dfd-4ab0-bc1e-065da05fca2e 
 - Housing
 
 ## A one sentence overview of your repository, meant for someone who is not familiar with the project
